@@ -21,5 +21,12 @@ These various circuit designs have been created using the open-source automated 
 7.2-input 2-bit Adder<br>
 <img width="235" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/c7459328-73d2-4298-9eb9-320d67e9ae86">
 
+8.Full Adder<br>
+<img width="253" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/523ac5d9-b448-4fa3-9a40-c7067a8a8af2">
+
+9.Half Adder<br>
+
+
+
 
 
