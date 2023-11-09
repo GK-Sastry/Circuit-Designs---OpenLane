@@ -2,6 +2,7 @@ These various circuit designs have been created using the open-source automated 
 
 1.OR_Gate
 <img width="235" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/8222e3d8-8ef5-4e24-855f-9c549bc03513">
+
 2.NOT_Gate
 <img width="237" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/c7c0892a-5594-47a0-96c6-9891d7dbc207">
 3.NAND_Gate
