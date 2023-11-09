@@ -3,17 +3,22 @@ These various circuit designs have been created using the open-source automated 
 1.OR_Gate<br>
 <img width="235" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/8222e3d8-8ef5-4e24-855f-9c549bc03513">
 
-2.NOT_Gate
+2.NOT_Gate<br>
 <img width="237" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/c7c0892a-5594-47a0-96c6-9891d7dbc207">
-3.NAND_Gate
+
+3.NAND_Gate<br>
 <img width="233" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/32b24dc8-81b2-4922-ad97-e377bb1706ca">
-4.XNOR_Gate
+
+4.XNOR_Gate<br>
 <img width="237" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/9929368e-d679-4bc1-9dba-f3cf0acebb61">
-5.4-to-1 Multiplexer 
+
+5.4-to-1 Multiplexer<br> 
 <img width="238" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/6ac9d087-ff59-44ed-a71a-1c86edc37919">
-6.2-to-1 Multiplexer
+
+6.2-to-1 Multiplexer<br>
 <img width="232" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/e5b9c357-e5ed-49e9-808f-a96425c1d55f">
-7.2-input 2-bit Adder
+
+7.2-input 2-bit Adder<br>
 <img width="235" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/c7459328-73d2-4298-9eb9-320d67e9ae86">
 
 
