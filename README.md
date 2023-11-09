@@ -1,6 +1,6 @@
 These various circuit designs have been created using the open-source automated RTL (Register Transfer Level) to GDSII (Graphic Data System II) flow, specifically utilizing OpenLane, with the SKY130 Process Design Kit (PDK) provided by SkyWater Technology Foundry. These designs can be run in a Google Colab environment by following these steps: Begin by downloading the 'requirements-dev.txt' file and uploading it to Google Colab. Afterward, restart the runtime, and then execute each cell in sequence. The repository encompasses a collection of diverse designs created through this process, making it a valuable resource for VLSI (Very-Large-Scale Integration) enthusiasts and engineers.
 
-1.OR_Gate
+1.OR_Gate<br>
 <img width="235" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/8222e3d8-8ef5-4e24-855f-9c549bc03513">
 
 2.NOT_Gate
