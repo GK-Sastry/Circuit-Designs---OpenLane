@@ -27,6 +27,14 @@ These various circuit designs have been created using the open-source automated 
 9.Half Adder<br>
 <img width="251" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/70e1de93-fcba-48db-9ed9-9e79eafb1701">
 
+10.Jk FlipFlop<br>
+<img width="277" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/049b5f2c-1aab-4e9c-b969-048e78adadc1">
+
+11.SR Latch<br>
+<img width="277" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/b224b180-6bb6-46ec-a562-515a65d45c5e">
+
+
+
 
 
 
