@@ -25,6 +25,8 @@ These various circuit designs have been created using the open-source automated 
 <img width="253" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/523ac5d9-b448-4fa3-9a40-c7067a8a8af2">
 
 9.Half Adder<br>
+<img width="251" alt="image" src="https://github.com/GK-Sastry/Circuit-Designs---OpenLane/assets/134768981/70e1de93-fcba-48db-9ed9-9e79eafb1701">
+
 
 
 
